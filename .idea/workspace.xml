@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1ee26f0-be34-4413-8c23-65bfaa4ad57c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.1_0" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/2669355满足加班统计逻辑改造及请假可按假期类型优先扣减功功能开发/qc2669355.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/fsdownload/KQOverTimeRuleCalBiz.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/src/main/java/com/api/customization/qc2508343/web/MatrixWeb.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/engine/common/entity/EncryptSecondAuthEntity.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2243476满足主次账号打卡数据同步功能开发/src/main/java/com/customization/qc2243476/KqUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/qc20230816.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/bean/KqTimeBean.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/src/main/java/com/engine/kq/wfset/util/KQFlowUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/src/main/java/com/engine/kq/cmd/report/GetKQReportCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2078820/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/src/main/java/com/engine/kq/cmd/report/ExportExcelCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/src/main/java/com/engine/kq/wfset/util/KQFlowLeaveUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816permission/src/main/java/com/api/customization/qc20230816/permission/util/CheckSelectUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/workingreport/util/WorkingKqReportUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2118737/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2183049/src/main/java/com/engine/kq/cmd/attendanceButton/PunchOutButtonCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/engine/common/biz/EncryptConfigBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2241192满足批量公出开发功能开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/engine/kq/biz/KQShiftManagementComInfo.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2758032开发备案/src/main/java/com/api/customization/qc2758032/util/KqReportUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/engine/encrypt/biz/EncryptSecondAuthConfigComInfo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816permission/src/main/java/com/api/customization/qc20230816/permission/util/CheckSetUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2298000满足商密网外网考勤报表数据导出功能开发/src/main/java/com/api/customization/qc2298000/web/KqDetailAction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/weaver/systeminfo/systemright/CheckUserRight.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e5aaeab-03aa-47a7-8d76-82332c79c035/console.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2241192满足批量公出开发功能开发/src/main/java/com/engine/kq/cmd/hrmAttProcSet/GetStateProcSetFlowWfFieldsCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816permission/src/main/java/com/api/hrm/service/HrmResourceBaseService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/src/main/java/com/engine/kq/wfset/action/KqSplitAction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2757481满足调休规则及请假流程扣减规则失效规则定制改造开发/src/main/java/com/engine/kq/biz/KQBalanceOfLeaveBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2298000满足商密网外网考勤报表数据导出功能开发/src/main/java/com/api/customization/qc2298000/util/KqReportDetailUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2658035满足请假申请单加班规则值班申请单相关功能开发/src/main/java/com/engine/kq/biz/KQOverTimeRuleCalBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2184656/src/main/java/com/engine/kq/biz/KQFormatSignData.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2757481满足调休规则及请假流程扣减规则失效规则定制改造开发/src/main/java/com/engine/kq/cmd/attendanceEvent/GetVacationInfoCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2443677满足外勤打卡需求改造开发/src/main/java/com/engine/kq/cmd/attendanceButton/PunchOutButtonCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2184656/src/main/java/com/engine/kq/biz/KQFormatShiftRule.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/src/main/java/com/engine/kq/biz/KQFlowActiontBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/api/login/bean/QysLoginManagerBean.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2521698满足年假规则应用范围规则改造需求开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发/src/main/java/com/api/browser/service/impl/ResourceBrowserService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/engine/encrypt/cmd/secondAuthSetting/GetSecondAuthFormCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2563653满足考勤加班单位计算规则需求开发申请/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发/qc2607932.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2639734鼎兴达客户云盘功能优化/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发/src/main/java/com/api/customization/qc2419148/UserCheckUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2640833满足考勤个性打卡规则改造开发/src/test/java/test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/api/browser/bean/SearchConditionItem.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/api/login/util/QysLoginManager.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/src/main/java/com/engine/kq/wfset/util/KQFlowUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2640833满足考勤个性打卡规则改造开发/src/main/java/com/api/customization/qc2640833/util/KqUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/biz/KQReportBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2117596/src/test/java/test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/api/customization/qc2607931/util/SaveUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zhonghang/src/main/java/com/api/customization/kq/qc2241191/KqGroupSet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/api/customization/qc2607931/util/CheckUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zhonghang/src/main/java/com/api/customization/kq/qc2241191/web/KqGroup.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/wfset/util/KQFlowShiftUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/cmd/reportshare/GetReportShareFormCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2117596/src/main/java/com/engine/meeting/cmd/meetingField/GetMeetingBaseFieldMobxCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/engine/kq/biz/KQWorkTime.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/cmd/reportshare/SaveReportShareCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2238872满足考勤报表增加迟到分钟数统计列及实际打卡时长&amp;早班个数/夜班个数统计开发/src/main/java/com/engine/kq/biz/KQFormatData.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2213471满足开发人员密级更新action开发/src/main/java/com/customization/qc2213471/Action/changeClassification.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2221793ie浏览器通过HTML预览正文开发/src/main/java/docs/e9/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816permission/src/main/java/com/api/hrm/cmd/search/GetShowColCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/weaver/hrm/resource/ResourceComInfo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/engine/common/enums/SecondAuthType.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/qc20230816permission/src/main/java/weaver/join/hrm/in/adaptImpl/HrmImportAdaptExcelE9.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2721235满足考勤请假调休假改造及加班时长计算规则改造开发/src/main/java/com/engine/kq/biz/KQBalanceOfLeaveBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2528920满足忘记密码功能页面合并开发/src/main/java/com/api/customization/qc2528920/util/ForgotPasswordSend.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/src/main/java/com/engine/kq/cmd/attendanceEvent/GetOverTimeWorkDurationCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/engine/kq/biz/KQFormatData.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/src/main/java/com/api/customization/qc2508343/util/MatrixUtilCustom.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/src/main/java/com/engine/kq/wfset/util/KQFlowOvertimeUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2757481满足调休规则及请假流程扣减规则失效规则定制改造开发/src/main/java/com/api/customization/qc2757481/KqCustomUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2443677满足外勤打卡需求改造开发/src/main/java/com/customization/qc2443677/signRequestUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2757481满足调休规则及请假流程扣减规则失效规则定制改造开发/src/main/java/com/engine/kq/cmd/balanceofleave/GetSearchConditionCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2758032开发备案/src/main/java/com/api/customization/qc2758032/util/KqReportBizCustomUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/cmd/reportshare/GetSearchListCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/src/main/java/com/customization/qc2215400/FreeOverTimeFlowUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/src/main/java/com/customization/qc2215400/DateUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/api/hrm/service/HrmResourceAddService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2658035满足请假申请单加班规则值班申请单相关功能开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2757481满足调休规则及请假流程扣减规则失效规则定制改造开发/src/main/java/com/engine/kq/cmd/balanceofleavedetail/GetSearchListCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2635317满足考勤数据导入内网时变更考勤日历的状态功能开发/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2269712满足组织部门字段字段查看权限控制开发/src/main/java/com/customization/qc2269712/CheckPermissionUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bc9e39f9-4bb8-4c27-8698-0b97f8a7ed2b/console.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/engine/kq/wfset/util/KQFlowUtil.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/src/main/java/com/api/customization/kq/qc2241191/CheckSignActionUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2140212太平洋/src/main/java/com/api/doc/detail/web/DocAcction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2140212太平洋/src/main/java/com/api/doc/detail/util/ImageConvertUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2085194/src/main/java/com/api/browser/service/impl/MultiMeetingRoomBrowserService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2697880满足出差流程及加班流程改造开发/src/main/java/com/engine/kq/biz/KQOverTimeRuleCalBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/engine/kq/biz/KQOvertimeRulesBiz.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/web/OrganizationWeb.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2658035满足请假申请单加班规则值班申请单相关功能开发/src/main/java/com/api/customization/qc2658035/util/OverTimeUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2658035满足请假申请单加班规则值班申请单相关功能开发/src/main/java/com/api/customization/qc2658035/util/LeaveUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/util/KqFormatUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2658035满足请假申请单加班规则值班申请单相关功能开发/qc2658035.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/engine/hrm/cmd/securitysetting/GetSecuritySettingAdvancedForm.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2269712满足组织部门字段字段查看权限控制开发/src/main/java/weaver/hrm/HrmUserVarify.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/util/KqReportUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/workingreport/util/CalendarUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2085194/qc2085194.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2140212太平洋/src/main/java/com/api/doc/mobile/systemDoc/util/SystemDocUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/biz/KQOvertimeLogBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/src/main/java/com/engine/kq/cmd/attendanceButton/PunchOutButtonCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发/src/main/java/com/engine/kq/biz/KQReportBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2140212太平洋/src/main/java/docs/e9/index2file.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2721227满足已请假人员不再需要打卡消息推送周末考勤打卡按钮取消功能开发/src/main/java/com/engine/kq/cmd/attendanceButton/GetButtonsCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2697880满足出差流程及加班流程改造开发/src/main/java/com/api/qc2697880/util/CustomUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/src/main/java/com/weaver/interfaces/zj/CheckSignAction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/src/main/java/com/engine/kq/cmd/attendanceButton/PunchOutButtonCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/util/ResourceUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ecology/classbean/com/engine/kq/enums/KqSplitFlowTypeEnum.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/src/main/java/com/engine/kq/biz/KQFormatData.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/src/main/java/com/engine/kq/cmd/attendanceButton/GetOutSearchListCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2260607满足聊天状态读取考勤数据状态更新功能开发/src/main/java/com/engine/hrm/cmd/emmanager/GetOrganizationInfoCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/21826647-2687-498f-90da-ce4e722a1515/console.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2269712满足组织部门字段字段查看权限控制开发/src/main/java/com/engine/hrm/cmd/organization/GetRightMenuCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/qc2535208.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/popkqreport/util/PopKqReportUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/popkqreport/util/CheckUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2260607满足聊天状态读取考勤数据状态更新功能开发/src/main/java/com/customization/qc2260607/AccountStateUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2521698满足年假规则应用范围规则改造需求开发/src/main/java/com/engine/kq/cmd/leaverules/GetLeaveRulesFormCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/src/main/java/com/api/customization/qc2304359/KqReportUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2522811工作日晚上加班计算时长错误-广东圣大/qc2522811.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2243476满足主次账号打卡数据同步功能开发/src/main/java/com/engine/kq/cmd/attendanceButton/GetButtonBaseInfoCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/engine/kq/biz/KQReportBiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/src/main/java/com/api/hrm/service/HrmSystemInfoService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2085194/src/main/java/com/engine/meeting/cmd/meetingroom/GetRoomFieldsCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2635317满足考勤数据导入内网时变更考勤日历的状态功能开发/src/test/java/test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/qc2508343.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/util/KqHolidayUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2635317满足考勤数据导入内网时变更考勤日历的状态功能开发/src/main/java/com/api/customization/qc2297322/util/KqReportDetailUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2085194/src/main/java/com/engine/meeting/cmd/meetingroom/GetRoomReportDataCmd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/qc2204070.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2635317满足考勤数据导入内网时变更考勤日历的状态功能开发/src/main/java/com/api/customization/qc2298000/util/KqReportDetailUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/qc20230816/src/main/java/com/api/customization/qc20230816/popkqreport/web/PopKqReportAction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2607931/src/main/java/com/engine/kq/util/KQTransMethod.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2563653满足考勤加班单位计算规则需求开发申请/src/main/java/com/engine/kq/cmd/attendanceEvent/GetOverTimeWorkDurationCmd.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiF5RLX1eWCOtbtfJSBVc5DIgN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/qc20230816permission/src/main/java/com/api/hrm/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理/src/main/java/com/engine/portal/biz/nonstandardfunction" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.124843955" />
+    <property name="project.structure.side.proportion" value="0.35673624" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEAVER\WorkCode\2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理\src\main\java\com\engine\portal\biz\nonstandardfunction" />
+      <recent name="D:\WEAVER\WorkCode\2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理\src\main\java\com\api\doc\detail\service" />
+      <recent name="D:\WEAVER\WorkCode\2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理\src\main\java\com\api\doc\mobile\systemDoc\util" />
+      <recent name="D:\WEAVER\WorkCode\2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理\src\main\java\weaver\general" />
+      <recent name="D:\WEAVER\WorkCode\2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理\src\main\java\com\api\doc\detail\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEAVER\WorkCode\2639734鼎兴达客户云盘功能优化\rdeploy\chatproject\doc" />
+      <recent name="D:\WEAVER\WorkCode\2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发\src\main\java\workflow\request\ext4e9" />
+      <recent name="D:\WEAVER\WorkCode\2440302移动端角色预览和加密\src\main\java\WEB-INF" />
+      <recent name="D:\WEAVER\WorkCode\2184656" />
+      <recent name="D:\WEAVER\WorkCode\2243476满足主次账号打卡数据同步功能开发" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.api.customization.qc2757481.web" />
+      <recent name="com.api.customization.qc2758032.util" />
+      <recent name="" />
+      <recent name="com.engine.kq.biz" />
+      <recent name="com.api.customization.qc2297322.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.test1">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testInterface.testInterface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2758032开发备案" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testInterface" />
+      <option name="METHOD_NAME" value="testInterface" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.getQuarters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2757481满足调休规则及请假流程扣减规则失效规则定制改造开发" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="getQuarters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2508343满足提供矩阵数据维护接口供集成模块调用开发" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testInterface (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2117596" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="testInterface" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testInterface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2118737" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="testInterface" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test1" />
+        <item itemvalue="JUnit.test.getQuarters" />
+        <item itemvalue="JUnit.test.testInterface (1)" />
+        <item itemvalue="JUnit.test.testInterface" />
+        <item itemvalue="JUnit.testInterface.testInterface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ee26f0-be34-4413-8c23-65bfaa4ad57c" name="Default Changelist" comment="" />
+      <created>1676345813052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676345813052</updated>
+      <workItem from="1676345814204" duration="376000" />
+      <workItem from="1676346219366" duration="29901000" />
+      <workItem from="1676619266714" duration="126966000" />
+      <workItem from="1677478060463" duration="166541000" />
+      <workItem from="1678258199956" duration="11582000" />
+      <workItem from="1678323258364" duration="12943000" />
+      <workItem from="1678348579184" duration="65418000" />
+      <workItem from="1678785056017" duration="24846000" />
+      <workItem from="1679017485734" duration="40618000" />
+      <workItem from="1679448382461" duration="21744000" />
+      <workItem from="1679533071336" duration="18560000" />
+      <workItem from="1679572596822" duration="6452000" />
+      <workItem from="1679619261487" duration="49896000" />
+      <workItem from="1679965464542" duration="38422000" />
+      <workItem from="1680065898085" duration="97123000" />
+      <workItem from="1680749991041" duration="21334000" />
+      <workItem from="1681089607022" duration="26926000" />
+      <workItem from="1681198988873" duration="45263000" />
+      <workItem from="1681434552651" duration="20764000" />
+      <workItem from="1681694425447" duration="55898000" />
+      <workItem from="1681867146107" duration="27628000" />
+      <workItem from="1681970390834" duration="40886000" />
+      <workItem from="1682212412618" duration="18629000" />
+      <workItem from="1682298812868" duration="21945000" />
+      <workItem from="1682385417557" duration="11542000" />
+      <workItem from="1682469999707" duration="22851000" />
+      <workItem from="1682558984650" duration="20538000" />
+      <workItem from="1682643804161" duration="21604000" />
+      <workItem from="1683163257973" duration="23677000" />
+      <workItem from="1683249225845" duration="27348000" />
+      <workItem from="1683335084193" duration="45528000" />
+      <workItem from="1683594300806" duration="26466000" />
+      <workItem from="1683686705513" duration="13139000" />
+      <workItem from="1683767601538" duration="26680000" />
+      <workItem from="1684116491919" duration="16741000" />
+      <workItem from="1684199561483" duration="2000" />
+      <workItem from="1684199612591" duration="20996000" />
+      <workItem from="1684287091821" duration="22070000" />
+      <workItem from="1684371899573" duration="23479000" />
+      <workItem from="1684458933918" duration="23783000" />
+      <workItem from="1684719045655" duration="19817000" />
+      <workItem from="1684804377597" duration="24563000" />
+      <workItem from="1684890248156" duration="39906000" />
+      <workItem from="1685066439480" duration="22058000" />
+      <workItem from="1685322653890" duration="25106000" />
+      <workItem from="1685409056886" duration="19842000" />
+      <workItem from="1685497107999" duration="22600000" />
+      <workItem from="1685582064150" duration="23974000" />
+      <workItem from="1685668085507" duration="23794000" />
+      <workItem from="1685927066416" duration="18663000" />
+      <workItem from="1686016662569" duration="21749000" />
+      <workItem from="1686100076746" duration="21452000" />
+      <workItem from="1686186704157" duration="23638000" />
+      <workItem from="1686282443056" duration="8919000" />
+      <workItem from="1686552272357" duration="7711000" />
+      <workItem from="1686618384554" duration="9944000" />
+      <workItem from="1686628735490" duration="14504000" />
+      <workItem from="1686705140438" duration="26223000" />
+      <workItem from="1686793524622" duration="20807000" />
+      <workItem from="1686877739364" duration="26053000" />
+      <workItem from="1687137438286" duration="20808000" />
+      <workItem from="1687222530880" duration="5851000" />
+      <workItem from="1687229891205" duration="12352000" />
+      <workItem from="1687309201320" duration="26682000" />
+      <workItem from="1687664268500" duration="13724000" />
+      <workItem from="1687741442184" duration="17051000" />
+      <workItem from="1687827772462" duration="281000" />
+      <workItem from="1687828072374" duration="21211000" />
+      <workItem from="1687915915472" duration="23676000" />
+      <workItem from="1688000612880" duration="49554000" />
+      <workItem from="1688346474148" duration="21327000" />
+      <workItem from="1688433904444" duration="11216000" />
+      <workItem from="1688453736401" duration="7271000" />
+      <workItem from="1688520483241" duration="16246000" />
+      <workItem from="1688545249823" duration="6969000" />
+      <workItem from="1688607410188" duration="24145000" />
+      <workItem from="1688692011296" duration="69134000" />
+      <workItem from="1689124891891" duration="25065000" />
+      <workItem from="1689210550797" duration="28132000" />
+      <workItem from="1689296590209" duration="22716000" />
+      <workItem from="1689557130620" duration="22887000" />
+      <workItem from="1689641327043" duration="23002000" />
+      <workItem from="1689727793157" duration="22443000" />
+      <workItem from="1689815588935" duration="18126000" />
+      <workItem from="1689903079812" duration="14693000" />
+      <workItem from="1690160905807" duration="900000" />
+      <workItem from="1690163598342" duration="11553000" />
+      <workItem from="1690249099966" duration="17254000" />
+      <workItem from="1690334083720" duration="19317000" />
+      <workItem from="1690420812504" duration="23636000" />
+      <workItem from="1690508575387" duration="22463000" />
+      <workItem from="1690765737738" duration="22846000" />
+      <workItem from="1690852204289" duration="24016000" />
+      <workItem from="1690939170733" duration="23646000" />
+      <workItem from="1691024924072" duration="435000" />
+      <workItem from="1691025634610" duration="709000" />
+      <workItem from="1691027995008" duration="16977000" />
+      <workItem from="1691111725167" duration="26128000" />
+      <workItem from="1691371884055" duration="11868000" />
+      <workItem from="1691392398568" duration="8688000" />
+      <workItem from="1691457939857" duration="20127000" />
+      <workItem from="1691543110294" duration="23239000" />
+      <workItem from="1691629884063" duration="23971000" />
+      <workItem from="1691715868464" duration="24668000" />
+      <workItem from="1691975466336" duration="3493000" />
+      <workItem from="1691981334774" duration="1312000" />
+      <workItem from="1691982869581" duration="17098000" />
+      <workItem from="1692062200100" duration="5256000" />
+      <workItem from="1692081078468" duration="11669000" />
+      <workItem from="1692148979458" duration="19229000" />
+      <workItem from="1692234402792" duration="20391000" />
+      <workItem from="1692320973862" duration="22664000" />
+      <workItem from="1692581976249" duration="14731000" />
+      <workItem from="1692667107142" duration="18345000" />
+      <workItem from="1692753161692" duration="18271000" />
+      <workItem from="1692839993059" duration="18250000" />
+      <workItem from="1692925532133" duration="16237000" />
+      <workItem from="1693186492205" duration="14253000" />
+      <workItem from="1693271695126" duration="20940000" />
+      <workItem from="1693358003896" duration="7586000" />
+      <workItem from="1693373282188" duration="762000" />
+      <workItem from="1693374771337" duration="15485000" />
+      <workItem from="1693444231695" duration="27467000" />
+      <workItem from="1693530855193" duration="27846000" />
+      <workItem from="1693790111836" duration="65492000" />
+      <workItem from="1693964217230" duration="16970000" />
+      <workItem from="1694049134254" duration="20010000" />
+      <workItem from="1694136496711" duration="19429000" />
+      <workItem from="1694395984542" duration="17065000" />
+      <workItem from="1694482563312" duration="23543000" />
+      <workItem from="1694567069485" duration="18736000" />
+      <workItem from="1694654847873" duration="15098000" />
+      <workItem from="1694740871927" duration="18384000" />
+      <workItem from="1694998745487" duration="299000" />
+      <workItem from="1694999525060" duration="467000" />
+      <workItem from="1695000710694" duration="19433000" />
+      <workItem from="1695086141460" duration="15790000" />
+      <workItem from="1695172429848" duration="29198000" />
+      <workItem from="1695258446627" duration="22169000" />
+      <workItem from="1695343422439" duration="19455000" />
+      <workItem from="1695604621053" duration="19910000" />
+      <workItem from="1695690522396" duration="18343000" />
+      <workItem from="1695777298570" duration="24039000" />
+      <workItem from="1695863202865" duration="29039000" />
+      <workItem from="1695906604101" duration="490000" />
+      <workItem from="1696240870997" duration="561000" />
+      <workItem from="1696640911815" duration="25675000" />
+      <workItem from="1696728584447" duration="15239000" />
+      <workItem from="1696813498303" duration="15300000" />
+      <workItem from="1696901001196" duration="393000" />
+      <workItem from="1696902013270" duration="872000" />
+      <workItem from="1696904990622" duration="923000" />
+      <workItem from="1696905964180" duration="16564000" />
+      <workItem from="1696986165336" duration="4150000" />
+      <workItem from="1697004955336" duration="10917000" />
+      <workItem from="1697073004310" duration="19886000" />
+      <workItem from="1697160122415" duration="22379000" />
+      <workItem from="1697418566862" duration="23646000" />
+      <workItem from="1697504902239" duration="24214000" />
+      <workItem from="1697591459490" duration="9439000" />
+      <workItem from="1697608999248" duration="13014000" />
+      <workItem from="1697678630204" duration="19271000" />
+      <workItem from="1697764754966" duration="20447000" />
+      <workItem from="1698023125473" duration="19827000" />
+      <workItem from="1698109552483" duration="22995000" />
+      <workItem from="1698196541331" duration="22422000" />
+      <workItem from="1698282150435" duration="23179000" />
+      <workItem from="1698369776084" duration="23576000" />
+      <workItem from="1698628196678" duration="46622000" />
+      <workItem from="1698725945476" duration="16154000" />
+      <workItem from="1698764982840" duration="832000" />
+      <workItem from="1698800791670" duration="23577000" />
+      <workItem from="1698886902009" duration="21899000" />
+      <workItem from="1698974572727" duration="23943000" />
+      <workItem from="1699023507599" duration="5398000" />
+      <workItem from="1699108578606" duration="881000" />
+      <workItem from="1699234625726" duration="22428000" />
+      <workItem from="1699319665680" duration="14481000" />
+      <workItem from="1699405985153" duration="14906000" />
+      <workItem from="1699492731638" duration="6065000" />
+      <workItem from="1699512594268" duration="7550000" />
+      <workItem from="1699578858747" duration="13511000" />
+      <workItem from="1699839567757" duration="23928000" />
+      <workItem from="1699926442137" duration="10622000" />
+      <workItem from="1700010939236" duration="16493000" />
+      <workItem from="1700097112270" duration="12202000" />
+      <workItem from="1700186570277" duration="23987000" />
+      <workItem from="1700443593803" duration="21156000" />
+      <workItem from="1700478937644" duration="212000" />
+      <workItem from="1700530060799" duration="24502000" />
+      <workItem from="1700616058528" duration="17013000" />
+      <workItem from="1700702387506" duration="21715000" />
+      <workItem from="1700788760602" duration="20395000" />
+      <workItem from="1701047984678" duration="18988000" />
+      <workItem from="1701083645639" duration="1221000" />
+      <workItem from="1701134523851" duration="24349000" />
+      <workItem from="1701220646479" duration="19025000" />
+      <workItem from="1701310724740" duration="14124000" />
+      <workItem from="1701395455995" duration="17053000" />
+      <workItem from="1701653502106" duration="27145000" />
+      <workItem from="1701689851320" duration="2796000" />
+      <workItem from="1701739437019" duration="31887000" />
+      <workItem from="1701824456899" duration="27111000" />
+      <workItem from="1701911733862" duration="21995000" />
+      <workItem from="1701999710881" duration="16655000" />
+      <workItem from="1702220831595" duration="950000" />
+      <workItem from="1702257139110" duration="22769000" />
+      <workItem from="1702306190592" duration="131000" />
+      <workItem from="1702343370912" duration="19895000" />
+      <workItem from="1702430148270" duration="16613000" />
+      <workItem from="1702517678779" duration="9882000" />
+      <workItem from="1702539188550" duration="3703000" />
+      <workItem from="1702543514176" duration="1769000" />
+      <workItem from="1702604154860" duration="17849000" />
+      <workItem from="1702861442392" duration="15959000" />
+      <workItem from="1702948658089" duration="15037000" />
+      <workItem from="1703036437101" duration="16898000" />
+      <workItem from="1703123385571" duration="21854000" />
+      <workItem from="1703208893635" duration="17916000" />
+      <workItem from="1703466634700" duration="27250000" />
+      <workItem from="1703552927681" duration="28596000" />
+      <workItem from="1703640707964" duration="1116000" />
+      <workItem from="1703726507015" duration="18023000" />
+      <workItem from="1703812734256" duration="19381000" />
+      <workItem from="1704160274273" duration="19780000" />
+      <workItem from="1704248603564" duration="19840000" />
+      <workItem from="1704332081524" duration="15938000" />
+      <workItem from="1704419719223" duration="18908000" />
+      <workItem from="1704676240110" duration="10594000" />
+      <workItem from="1704694928231" duration="12974000" />
+      <workItem from="1704762364380" duration="17688000" />
+      <workItem from="1704849685347" duration="17835000" />
+      <workItem from="1704939221876" duration="17515000" />
+      <workItem from="1705023438670" duration="20596000" />
+      <workItem from="1705282134155" duration="2452000" />
+      <workItem from="1705285534375" duration="13959000" />
+      <workItem from="1705369578232" duration="21017000" />
+      <workItem from="1705454653173" duration="15029000" />
+      <workItem from="1705472885679" duration="9593000" />
+      <workItem from="1706493267564" duration="4825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

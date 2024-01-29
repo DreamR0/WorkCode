@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qc20230816" />
+        <module name="2304359满足考勤报表改造个性开发" />
+        <module name="2563653满足考勤加班单位计算规则需求开发申请" />
+        <module name="2175471满足加班时长计算规则改造开发需求" />
+        <module name="2476717满足考勤移动端我的考勤页面改造开发" />
+        <module name="2716653允许替换正文节点" />
+        <module name="人员新建查看范围控制开发" />
+        <module name="2269712满足组织部门字段字段查看权限控制开发" />
+        <module name="qc20230816permission" />
+        <module name="zhonghang" />
+        <module name="2287763满足考勤汇总报表开发-组织架构列动态配置开发" />
+        <module name="2118737" />
+        <module name="2076457" />
+        <module name="2522811工作日晚上加班计算时长错误-广东圣大" />
+        <module name="浙江地质大数据应用中心有限公司" />
+        <module name="2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发" />
+        <module name="2443677满足外勤打卡需求改造开发" />
+        <module name="2297322满足客户内网系统导入考勤报表数据功能开发" />
+        <module name="2757481满足调休规则及请假流程扣减规则失效规则定制改造开发" />
+        <module name="2757479满足工作日出差算加班计算规则变更开发" />
+        <module name="2658035满足请假申请单加班规则值班申请单相关功能开发" />
+        <module name="2635317满足考勤数据导入内网时变更考勤日历的状态功能开发" />
+        <module name="2117596" />
+        <module name="2241191满足考勤报表接口开发" />
+        <module name="2528920满足忘记密码功能页面合并开发" />
+        <module name="2260607满足聊天状态读取考勤数据状态更新功能开发" />
+        <module name="2511354满足考勤相关报表统计计算逻辑及显示列改造开发" />
+        <module name="2746979满足根据工龄进行折算年假改造开发" />
+        <module name="2241192满足批量公出开发功能开发" />
+        <module name="2521698满足年假规则应用范围规则改造需求开发" />
+        <module name="2183049" />
+        <module name="2806485满足加班流程需求改造开发" />
+        <module name="2184656" />
+        <module name="2204070满足外出、出差流程审批关联外勤打卡需求变更开发" />
+        <module name="2721227满足已请假人员不再需要打卡消息推送周末考勤打卡按钮取消功能开发" />
+        <module name="2508343满足提供矩阵数据维护接口供集成模块调用开发" />
+        <module name="2298000满足商密网外网考勤报表数据导出功能开发" />
+        <module name="2221793ie浏览器通过HTML预览正文开发" />
+        <module name="2473809满足E9考勤打卡支持真实身份认证功能需求开发" />
+        <module name="2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发" />
+        <module name="2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发" />
+        <module name="2669355满足加班统计逻辑改造及请假可按假期类型优先扣减功功能开发" />
+        <module name="2440302移动端角色预览和加密" />
+        <module name="2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发" />
+        <module name="2474646满足考勤调休假需求变更开发" />
+        <module name="2636842外网导出明细修改" />
+        <module name="夜班个数统计开发" />
+        <module name="2639734鼎兴达客户云盘功能优化" />
+        <module name="2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发" />
+        <module name="2758032开发备案" />
+        <module name="2096961" />
+        <module name="2654238满足周年提醒功能改造开发" />
+        <module name="2728806满足考勤汇总报表改造开发" />
+        <module name="2535208满足考勤打卡功能改造开发" />
+        <module name="2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理" />
+        <module name="2452784随申行会议流程提醒改造" />
+        <module name="2640833满足考勤个性打卡规则改造开发" />
+        <module name="2215400满足弹性工作制支持计算加班及每天统计报表改造开发" />
+        <module name="2721235满足考勤请假调休假改造及加班时长计算规则改造开发" />
+        <module name="2243476满足主次账号打卡数据同步功能开发" />
+        <module name="2697880满足出差流程及加班流程改造开发" />
+        <module name="2213471满足开发人员密级更新action开发" />
+        <module name="2654239满足考勤报表改造开发" />
+        <module name="2078820" />
+        <module name="2607931" />
+        <module name="2085194" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="2076457" target="8" />
+      <module name="2078820" target="8" />
+      <module name="2085194" target="8" />
+      <module name="2096961" target="8" />
+      <module name="2117596" target="8" />
+      <module name="2118737" target="8" />
+      <module name="2175471满足加班时长计算规则改造开发需求" target="8" />
+      <module name="2183049" target="8" />
+      <module name="2184656" target="1.5" />
+      <module name="2204070满足外出、出差流程审批关联外勤打卡需求变更开发" target="8" />
+      <module name="2213471满足开发人员密级更新action开发" target="8" />
+      <module name="2215400满足弹性工作制支持计算加班及每天统计报表改造开发" target="8" />
+      <module name="2221793ie浏览器通过HTML预览正文开发" target="8" />
+      <module name="2241191满足考勤报表接口开发" target="8" />
+      <module name="2241192满足批量公出开发功能开发" target="8" />
+      <module name="2243476满足主次账号打卡数据同步功能开发" target="8" />
+      <module name="2260607满足聊天状态读取考勤数据状态更新功能开发" target="8" />
+      <module name="2269712满足组织部门字段字段查看权限控制开发" target="8" />
+      <module name="2287763满足考勤汇总报表开发-组织架构列动态配置开发" target="8" />
+      <module name="2297322满足客户内网系统导入考勤报表数据功能开发" target="8" />
+      <module name="2298000满足商密网外网考勤报表数据导出功能开发" target="8" />
+      <module name="2304359满足考勤报表改造个性开发" target="8" />
+      <module name="2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发" target="8" />
+      <module name="2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发" target="8" />
+      <module name="2440302移动端角色预览和加密" target="8" />
+      <module name="2443677满足外勤打卡需求改造开发" target="8" />
+      <module name="2452784随申行会议流程提醒改造" target="8" />
+      <module name="2473809满足E9考勤打卡支持真实身份认证功能需求开发" target="8" />
+      <module name="2474646满足考勤调休假需求变更开发" target="8" />
+      <module name="2476717满足考勤移动端我的考勤页面改造开发" target="8" />
+      <module name="2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发" target="8" />
+      <module name="2508343满足提供矩阵数据维护接口供集成模块调用开发" target="8" />
+      <module name="2511354满足考勤相关报表统计计算逻辑及显示列改造开发" target="8" />
+      <module name="2521698满足年假规则应用范围规则改造需求开发" target="8" />
+      <module name="2522811工作日晚上加班计算时长错误-广东圣大" target="8" />
+      <module name="2528920满足忘记密码功能页面合并开发" target="8" />
+      <module name="2535208满足考勤打卡功能改造开发" target="8" />
+      <module name="2563653满足考勤加班单位计算规则需求开发申请" target="8" />
+      <module name="2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发" target="8" />
+      <module name="2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发" target="8" />
+      <module name="2758032开发备案新" target="18" />
+      <module name="qc20230816" target="8" />
+      <module name="qc20230816permission" target="8" />
+      <module name="zhonghang" target="8" />
+      <module name="人员新建查看范围控制开发" target="8" />
+      <module name="夜班个数统计开发" target="8" />
+      <module name="浙江地质大数据应用中心有限公司" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

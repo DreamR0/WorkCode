@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2076457/2076457.iml" filepath="$PROJECT_DIR$/2076457/2076457.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2078820/2078820.iml" filepath="$PROJECT_DIR$/2078820/2078820.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2085194/2085194.iml" filepath="$PROJECT_DIR$/2085194/2085194.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2096961/2096961.iml" filepath="$PROJECT_DIR$/2096961/2096961.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2117596/2117596.iml" filepath="$PROJECT_DIR$/2117596/2117596.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2118737/2118737.iml" filepath="$PROJECT_DIR$/2118737/2118737.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2175471/2175471满足加班时长计算规则改造开发需求.iml" filepath="$PROJECT_DIR$/2175471/2175471满足加班时长计算规则改造开发需求.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2183049/2183049.iml" filepath="$PROJECT_DIR$/2183049/2183049.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2184656/2184656.iml" filepath="$PROJECT_DIR$/2184656/2184656.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/2204070满足外出、出差流程审批关联外勤打卡需求变更开发.iml" filepath="$PROJECT_DIR$/2204070满足外出、出差流程审批关联外勤打卡需求变更开发/2204070满足外出、出差流程审批关联外勤打卡需求变更开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2213471满足开发人员密级更新action开发/2213471满足开发人员密级更新action开发.iml" filepath="$PROJECT_DIR$/2213471满足开发人员密级更新action开发/2213471满足开发人员密级更新action开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/2215400满足弹性工作制支持计算加班及每天统计报表改造开发.iml" filepath="$PROJECT_DIR$/2215400满足弹性工作制支持计算加班及每天统计报表改造开发/2215400满足弹性工作制支持计算加班及每天统计报表改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2221793ie浏览器通过HTML预览正文开发/2221793ie浏览器通过HTML预览正文开发.iml" filepath="$PROJECT_DIR$/2221793ie浏览器通过HTML预览正文开发/2221793ie浏览器通过HTML预览正文开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2241191满足考勤报表接口开发/2241191满足考勤报表接口开发.iml" filepath="$PROJECT_DIR$/2241191满足考勤报表接口开发/2241191满足考勤报表接口开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2241192满足批量公出开发功能开发/2241192满足批量公出开发功能开发.iml" filepath="$PROJECT_DIR$/2241192满足批量公出开发功能开发/2241192满足批量公出开发功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2243476满足主次账号打卡数据同步功能开发/2243476满足主次账号打卡数据同步功能开发.iml" filepath="$PROJECT_DIR$/2243476满足主次账号打卡数据同步功能开发/2243476满足主次账号打卡数据同步功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2260607满足聊天状态读取考勤数据状态更新功能开发/2260607满足聊天状态读取考勤数据状态更新功能开发.iml" filepath="$PROJECT_DIR$/2260607满足聊天状态读取考勤数据状态更新功能开发/2260607满足聊天状态读取考勤数据状态更新功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2269712满足组织部门字段字段查看权限控制开发/2269712满足组织部门字段字段查看权限控制开发.iml" filepath="$PROJECT_DIR$/2269712满足组织部门字段字段查看权限控制开发/2269712满足组织部门字段字段查看权限控制开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2287763满足考勤汇总报表开发-组织架构列动态配置开发/2287763满足考勤汇总报表开发-组织架构列动态配置开发.iml" filepath="$PROJECT_DIR$/2287763满足考勤汇总报表开发-组织架构列动态配置开发/2287763满足考勤汇总报表开发-组织架构列动态配置开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2297322满足客户内网系统导入考勤报表数据功能开发/2297322满足客户内网系统导入考勤报表数据功能开发.iml" filepath="$PROJECT_DIR$/2297322满足客户内网系统导入考勤报表数据功能开发/2297322满足客户内网系统导入考勤报表数据功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2298000满足商密网外网考勤报表数据导出功能开发/2298000满足商密网外网考勤报表数据导出功能开发.iml" filepath="$PROJECT_DIR$/2298000满足商密网外网考勤报表数据导出功能开发/2298000满足商密网外网考勤报表数据导出功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2304359满足考勤报表改造个性开发/2304359满足考勤报表改造个性开发.iml" filepath="$PROJECT_DIR$/2304359满足考勤报表改造个性开发/2304359满足考勤报表改造个性开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发.iml" filepath="$PROJECT_DIR$/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发/2419148满足有人力资源维护权限的人员控制不能维护其他特殊字段内容开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发/2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发.iml" filepath="$PROJECT_DIR$/2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发/2430162满足考勤日历表如有加班标注颜色和加班时长等相关开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2440302移动端角色预览和加密/2440302移动端角色预览和加密.iml" filepath="$PROJECT_DIR$/2440302移动端角色预览和加密/2440302移动端角色预览和加密.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2443677满足外勤打卡需求改造开发/2443677满足外勤打卡需求改造开发.iml" filepath="$PROJECT_DIR$/2443677满足外勤打卡需求改造开发/2443677满足外勤打卡需求改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2452784随申行会议流程提醒改造/2452784随申行会议流程提醒改造.iml" filepath="$PROJECT_DIR$/2452784随申行会议流程提醒改造/2452784随申行会议流程提醒改造.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/2473809满足E9考勤打卡支持真实身份认证功能需求开发.iml" filepath="$PROJECT_DIR$/2473809满足E9考勤打卡支持真实身份认证功能需求开发/2473809满足E9考勤打卡支持真实身份认证功能需求开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2474646满足考勤调休假需求变更开发/2474646满足考勤调休假需求变更开发.iml" filepath="$PROJECT_DIR$/2474646满足考勤调休假需求变更开发/2474646满足考勤调休假需求变更开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2476717满足考勤移动端我的考勤页面改造开发/2476717满足考勤移动端我的考勤页面改造开发.iml" filepath="$PROJECT_DIR$/2476717满足考勤移动端我的考勤页面改造开发/2476717满足考勤移动端我的考勤页面改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发/2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发.iml" filepath="$PROJECT_DIR$/2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发/2505403满足IP限制考勤打卡只现在PC电脑端及考勤组的设置页面改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/2508343满足提供矩阵数据维护接口供集成模块调用开发.iml" filepath="$PROJECT_DIR$/2508343满足提供矩阵数据维护接口供集成模块调用开发/2508343满足提供矩阵数据维护接口供集成模块调用开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2511354满足考勤相关报表统计计算逻辑及显示列改造开发/2511354满足考勤相关报表统计计算逻辑及显示列改造开发.iml" filepath="$PROJECT_DIR$/2511354满足考勤相关报表统计计算逻辑及显示列改造开发/2511354满足考勤相关报表统计计算逻辑及显示列改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2521698满足年假规则应用范围规则改造需求开发/2521698满足年假规则应用范围规则改造需求开发.iml" filepath="$PROJECT_DIR$/2521698满足年假规则应用范围规则改造需求开发/2521698满足年假规则应用范围规则改造需求开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2522811工作日晚上加班计算时长错误-广东圣大/2522811工作日晚上加班计算时长错误-广东圣大.iml" filepath="$PROJECT_DIR$/2522811工作日晚上加班计算时长错误-广东圣大/2522811工作日晚上加班计算时长错误-广东圣大.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2528920满足忘记密码功能页面合并开发/2528920满足忘记密码功能页面合并开发.iml" filepath="$PROJECT_DIR$/2528920满足忘记密码功能页面合并开发/2528920满足忘记密码功能页面合并开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/2535208满足考勤打卡功能改造开发.iml" filepath="$PROJECT_DIR$/2535208满足考勤打卡功能改造开发/2535208满足考勤打卡功能改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2563653满足考勤加班单位计算规则需求开发申请/2563653满足考勤加班单位计算规则需求开发申请.iml" filepath="$PROJECT_DIR$/2563653满足考勤加班单位计算规则需求开发申请/2563653满足考勤加班单位计算规则需求开发申请.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发.iml" filepath="$PROJECT_DIR$/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发/2574368满足请假出差公出加班流程时长计算改造及考勤报表冲销逻辑改造开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发.iml" filepath="$PROJECT_DIR$/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发/2607932满足下属考勤可以按照安全级别进行控制考勤内看见本部门以及下级部门所有人功能开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qc20230816/qc20230816.iml" filepath="$PROJECT_DIR$/qc20230816/qc20230816.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qc20230816permission/qc20230816permission.iml" filepath="$PROJECT_DIR$/qc20230816permission/qc20230816permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhonghang/zhonghang.iml" filepath="$PROJECT_DIR$/zhonghang/zhonghang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2474652满足人员通讯录/人员新建查看范围控制开发/2474652满足人员通讯录/人员新建查看范围控制开发.iml" filepath="$PROJECT_DIR$/2474652满足人员通讯录/人员新建查看范围控制开发/2474652满足人员通讯录/人员新建查看范围控制开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2238872满足考勤报表增加迟到分钟数统计列及实际打卡时长&amp;早班个数/夜班个数统计开发/2238872满足考勤报表增加迟到分钟数统计列及实际打卡时长&amp;早班个数/夜班个数统计开发.iml" filepath="$PROJECT_DIR$/2238872满足考勤报表增加迟到分钟数统计列及实际打卡时长&amp;早班个数/夜班个数统计开发/2238872满足考勤报表增加迟到分钟数统计列及实际打卡时长&amp;早班个数/夜班个数统计开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/浙江地质大数据应用中心有限公司/浙江地质大数据应用中心有限公司.iml" filepath="$PROJECT_DIR$/浙江地质大数据应用中心有限公司/浙江地质大数据应用中心有限公司.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>WorkCode</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>2607931</module>
+        <module>2635317满足考勤数据导入内网时变更考勤日历的状态功能开发</module>
+        <module>2636842外网导出明细修改</module>
+        <module>2639734鼎兴达客户云盘功能优化</module>
+        <module>2640833满足考勤个性打卡规则改造开发</module>
+        <module>2654239满足考勤报表改造开发</module>
+        <module>2658035满足请假申请单/加班规则/值班申请单相关功能开发</module>
+        <module>2658035满足请假申请单加班规则值班申请单相关功能开发</module>
+        <module>2654238满足周年提醒功能改造开发</module>
+        <module>2669355满足加班统计逻辑改造及请假可按假期类型优先扣减功功能开发</module>
+        <module>2697880满足出差流程及加班流程改造开发</module>
+        <module>2716653允许替换正文节点</module>
+        <module>2721235满足考勤请假调休假改造及加班时长计算规则改造开发</module>
+        <module>2721227满足已请假人员不再需要打卡消息推送/周末考勤打卡按钮取消功能开发</module>
+        <module>2721227满足已请假人员不再需要打卡消息推送周末考勤打卡按钮取消功能开发</module>
+        <module>2728806满足考勤汇总报表改造开发</module>
+        <module>2746979满足根据工龄进行折算年假改造开发</module>
+        <module>2758032开发备案</module>
+        <module>2757479满足工作日出差算加班计算规则变更开发</module>
+        <module>2757481满足调休规则及请假流程扣减规则失效规则定制改造开发</module>
+        <module>2758032开发备案新</module>
+        <module>2783184 太保信创【移动端打开文档附件不正常现象问题】-知识管理</module>
+        <module>2806485满足加班流程需求改造开发</module>
+    </modules>
+
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="佛山市交通投资集团有限公司">
+  <database-model serializer="dbm" dbms="UNKNOWN" family-id="UNKNOWN" format-version="4.21">
+    <root id="1">
+      <ServerVersion>8.0</ServerVersion>
+      <DefaultCasing>upper</DefaultCasing>
+    </root>
+    <database id="2" parent="1" name="ecology">
+      <Current>1</Current>
+    </database>
+    <schema id="3" parent="2" name="PUBLIC">
+      <Current>1</Current>
+    </schema>
+    <schema id="4" parent="2" name="SYSAUDIT"/>
+    <schema id="5" parent="2" name="SYSLOGICAL"/>
+    <schema id="6" parent="2" name="SYS_CATALOG"/>
+    <schema id="7" parent="2" name="SYS_HM"/>
+    <schema id="8" parent="2" name="XLOG_RECORD_READ"/>
+    <schema id="9" parent="2" name="cursor_define"/>
+    <schema id="10" parent="2" name="information_schema"/>
+  </database-model>
+</dataSource>
